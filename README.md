@@ -5,7 +5,7 @@
 <br>
 
 Hi, my name is Dalyan Ventura, I'm a `Bioinformatician Engineer` at [DNA Script](https://www.dnascript.com/).
-I love using coding to solve problems and automate tasks. I'm currently 4 kyu on [Codewars](https://www.codewars.com/users/Annaklumos), and I'm always looking for new challenges to improve my skills.
+I love using coding to solve problems and automate tasks. I'm currently 4 kyu on [Codewars](https://www.codewars.com/users/Catoptris), and I'm always looking for new challenges to improve my skills.
 
 <br>
 
@@ -13,7 +13,7 @@ I love using coding to solve problems and automate tasks. I'm currently 4 kyu on
 <br>
 <p align="center">
  &emsp;
- <a href="mailto:dalyan.ventyra@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+ <a href="mailto:dalyan.ventura@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  &emsp;
  <a href="https://github.com/Annaklumos"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  &emsp;
@@ -35,8 +35,8 @@ I love using coding to solve problems and automate tasks. I'm currently 4 kyu on
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
     &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/R%20-%230078D7.svg?style=plastic&logo=r&logoColor=white">
+   <a href="https://www.r-project.org" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R%20-%230078D7.svg?style=plastic&logo=r&logoColor=white">
   </a>
 </p>
 
