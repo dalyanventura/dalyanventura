@@ -15,7 +15,7 @@ I love using coding to solve problems and automate tasks. I'm currently 4 kyu on
  &emsp;
  <a href="mailto:dalyan.ventura@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
  &emsp;
- <a href="https://github.com/Annaklumos"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+ <a href="https://github.com/dalyanventura"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
  &emsp;
  <a href="https://www.linkedin.com/in/dalyanventura/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
